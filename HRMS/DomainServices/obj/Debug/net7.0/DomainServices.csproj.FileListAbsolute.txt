@@ -1,0 +1,15 @@
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\bin\Debug\net7.0\DomainServices.deps.json
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\bin\Debug\net7.0\DomainServices.dll
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\bin\Debug\net7.0\DomainServices.pdb
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\bin\Debug\net7.0\Domain.dll
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\bin\Debug\net7.0\Domain.pdb
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.csproj.AssemblyReference.cache
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.AssemblyInfoInputs.cache
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.AssemblyInfo.cs
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.csproj.CoreCompileInputs.cache
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.csproj.CopyComplete
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.dll
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\refint\DomainServices.dll
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\DomainServices.pdb
+D:\MyCodingSpace\HRCRM\HRMS\DomainServices\obj\Debug\net7.0\ref\DomainServices.dll

@@ -1,0 +1,12 @@
+D:\MyCodingSpace\HRCRM\HRMS\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\MyCodingSpace\HRCRM\HRMS\Domain\bin\Debug\net7.0\Domain.dll
+D:\MyCodingSpace\HRCRM\HRMS\Domain\bin\Debug\net7.0\Domain.pdb
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.dll
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\Domain.pdb
+D:\MyCodingSpace\HRCRM\HRMS\Domain\obj\Debug\net7.0\ref\Domain.dll

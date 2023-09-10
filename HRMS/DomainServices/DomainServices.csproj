@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DBContext\" />
+    <Folder Include="ADO.net\" />
+    <Folder Include="UnitOfWork\" />
+    <Folder Include="Repositries\" />
+    <Folder Include="SQLHelper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -8,6 +8,10 @@
 
   <ItemGroup>
     <Folder Include="Entities\" />
+    <Folder Include="Auth\" />
+    <Folder Include="Common\" />
+    <Folder Include="DTO\" />
+    <Folder Include="Enums\" />
   </ItemGroup>
 
 </Project>
