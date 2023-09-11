@@ -11,5 +11,6 @@ namespace Domain.Entities
     {
         public int Age { get; set; }
         public bool IsActive { get; set; } = true;
+        public virtual Employee Employee { get; set; }
     }
 }
